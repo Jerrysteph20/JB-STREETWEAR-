@@ -1,0 +1,38 @@
+p{
+color:black;
+} 
+
+h2 {
+  color: black;
+}
+
+#products{
+width:150px;
+height:400px;
+} 
+img{
+height:200px;
+} 
+
+body{
+	background-color: Azure;
+} 
+
+div{
+	background-color:PapayaWhip; 
+	border-style: hidden;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	margin-right:3px;
+	margin-left: 3px;
+} 
+
+#prod{
+	background:OldLace;
+} 
+
+#top{ 
+	background-color:white; 
+	justify-content: space-between; 
+} 
+  
